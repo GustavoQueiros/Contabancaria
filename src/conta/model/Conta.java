@@ -1,6 +1,6 @@
 package conta.model;
 
-public class Conta {
+public abstract class Conta {
 
 	// Criei as variaveis e estão em encadeiamento, os get and set vão deixar ela
 	// serem exibidas em outras classe.
